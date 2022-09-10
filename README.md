@@ -1,4 +1,7 @@
-https://img.shields.io/badge/<>-<c++>-<orange>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=JAMONG%205&fontSize=90" />
+
+
+<img src="https://img.shields.io/badge/C++-00599C?logo=C++&logoColor=00599C"/></a> <img src="https://img.shields.io/badge/C-000000?logo=C&logoColor=A8B9CC"/></a> <img src="https://img.shields.io/badge/Python-00B1E7?logo=Python&logoColor=3776AB"/></a>
 
 <!--
 **jennifer060697/jennifer060697** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
