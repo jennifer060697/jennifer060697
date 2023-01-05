@@ -6,7 +6,7 @@
 <img src="https://img.shields.io/badge/C++-00599C?logo=C++&logoColor=00599C"/> <img src="https://img.shields.io/badge/C-000000?logo=C&logoColor=A8B9CC"/> <img src="https://img.shields.io/badge/Python-00B1E7?logo=Python&logoColor=3776AB"/>
 </div>
 
-- 🌱 I’m currently learning ...
+#### 🌱 I’m currently learning ...
 - python
 - sklearn
 - tensorflow
