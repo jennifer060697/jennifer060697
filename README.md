@@ -8,7 +8,5 @@
 
 #### 🌱 I’m currently learning ...
 - python
-- sklearn
-- tensorflow
-- pytorch
+- deap leaning CV
 - ...
