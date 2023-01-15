@@ -15,5 +15,5 @@
 
 --------
 <div align="center">
-<img src = "[![Solved.ac Profile]http://mazassumnida.wtf/api/generate_badge?boj=jennifer0606)](https://solved.ac/jennifer0606)">
+<img src = "![Solved.ac Profile]http://mazassumnida.wtf/api/generate_badge?boj=jennifer0606)(https://solved.ac/jennifer0606)">
 </div>
