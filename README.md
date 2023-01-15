@@ -4,6 +4,7 @@
 </div>
 
 <a href="https://jamong-5.tistory.com/"><img src="https://img.shields.io/badge/TechBlog-09B3AF?style=flat-square&logo=Tistory&logoColor=white&link=https://jamong-5.tistory.com/"/></a>
+<a href="mailto:oennifer060697@gmail.com"><img src="https://img.shields.io/badge/Email-FF4785?style=flat-square&logo=Gmail&logoColor=white&link=mailto:oennifer060697@gmail.com"/></a>
 
 
 <div align="center">
