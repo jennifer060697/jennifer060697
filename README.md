@@ -5,12 +5,15 @@
 <div align="center">
 <img src="https://img.shields.io/badge/C++-00599C?logo=C++&logoColor=00599C"/> <img src="https://img.shields.io/badge/C-000000?logo=C&logoColor=A8B9CC"/> <img src="https://img.shields.io/badge/Python-00B1E7?logo=Python&logoColor=3776AB"/>
 </div>
+--------
 
 #### 🌱 I’m currently learning ...
 - python
 - deap leaning CV
 - ...
 
+
 --------
---------
+<div align="center">
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=jennifer0606)](https://solved.ac/jennifer0606)
+</div>
