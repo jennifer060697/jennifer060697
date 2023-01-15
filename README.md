@@ -14,6 +14,6 @@
 
 
 --------
-<div align="center/">
+<div align="center">
   <img src = "http://mazassumnida.wtf/api/generate_badge?boj=jennifer0606">
 </div>
