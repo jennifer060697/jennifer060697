@@ -10,3 +10,7 @@
 - python
 - deap leaning CV
 - ...
+
+--------
+--------
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=jennifer0606)](https://solved.ac/jennifer0606)
