@@ -12,9 +12,9 @@
 
 <h2 align="center">☾⋆⁺Available⁺⋆☾</h2>
 <div align="center">
-  <img src="https://img.shields.io/badge/python-00B1E7?logo=Python&logoColor=3776AB"/>
-  <img src="https://img.shields.io/badge/cpp-00599C?logo=C%2B%2B&logoColor=00599C"/>
-  <img src="https://img.shields.io/badge/c-000000?logo=C&logoColor=A8B9CC"/>
+  <img src="https://img.shields.io/badge/python-00B1E7?logo=Python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/cpp-00599C?logo=C%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/c-000000?logo=C&logoColor=white"/>
 </div>
 
 --------
