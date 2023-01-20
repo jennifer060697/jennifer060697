@@ -24,6 +24,9 @@
 - TensorFlow
 - Pytorch
 - deap leaning CV
+- SQL query
+- Django
+- html, css
 - ...
 
 
