@@ -36,6 +36,6 @@
 --------
 <div align="center">
   <img src = "http://mazassumnida.wtf/api/v2/generate_badge?boj=jennifer0606">
-  <d>  </d>
+  <d>  ____  </d>
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=jennifer060697&layout=compact">
 </div>
