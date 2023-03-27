@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=JAMONG%205&fontSize=90" />
 </div>
 <div align="right">
-  <img src = "https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/jennifer060697&count_bg=%728FCE&title_bg=%728FCE&icon=&icon_color=%728FCE&title=hits&edge_flat=false">
+  <img src = "https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/jennifer060697&count_bg=728FCE&title_bg=728FCE&icon=&icon_color=728FCE&title=hits&edge_flat=false">
 </div>
 
 <h2 align="center">☾⋆⁺LINK⁺⋆☾</h2>
