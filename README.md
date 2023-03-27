@@ -2,6 +2,9 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=JAMONG%205&fontSize=90" />
 </div>
+<div align="right">
+  <img src = "https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/jennifer060697&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%4194b8&title=hits&edge_flat=false">
+</div>
 
 <h2 align="center">☾⋆⁺LINK⁺⋆☾</h2>
 <div align="center">
@@ -18,9 +21,6 @@
 </div>
 
 --------
-<div align="right">
-  <img src = "https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/jennifer060697&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false">
-</div>
 
 #### 🌱 I’m currently learning ...
 - python
