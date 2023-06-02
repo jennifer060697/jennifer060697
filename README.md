@@ -6,8 +6,6 @@
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjennifer060697&count_bg=%23708FD3&title_bg=%23515151&icon=ghostery.svg&icon_color=%23E7E7E7&title=HITS%21%21&edge_flat=false"/>
 </div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jennifer060697&theme=gruvbox_light&show_icons=true)
-
 <h2 align="center">☾⋆⁺LINK⁺⋆☾</h2>
 <div align="center">
   <a href="https://jamong-5.tistory.com/"><img src="https://img.shields.io/badge/TechBlog-09B3AF?style=flat-square&logo=Tistory&logoColor=white&link=https://jamong-5.tistory.com/"/></a>
@@ -22,22 +20,21 @@
   <img src="https://img.shields.io/badge/C-000000?logo=C&logoColor=white"/>
 </div>
 
---------
+<br><br>
 
-#### 🌱 I’m currently learning ...
-- python
-- TensorFlow
-- Pytorch
-- deap leaning CV
-- SQL query
-- Django
-- html, css
-- ...
-
-
---------
 <div align="center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=jennifer060697&theme=great-gatsby&show_icons=true">
+  <t>&nbsp;&nbsp;&nbsp;&nbsp;</t>
   <img src = "http://mazassumnida.wtf/api/v2/generate_badge?boj=jennifer0606">
   <t>&nbsp;&nbsp;&nbsp;&nbsp;</t>
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=jennifer060697&layout=compact">
 </div>
+
+#### 🌱 I’m currently learning ...
+- Pytorch
+- MMDectection, YOLO
+- SQL
+- JAVA
+
+<br><br>
+#### My Latest Posts
