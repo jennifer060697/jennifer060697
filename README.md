@@ -13,12 +13,12 @@
   <a href="mailto:oennifer060697@gmail.com"><img src="https://img.shields.io/badge/Email-FF4785?style=flat-square&logo=Gmail&logoColor=white&link=mailto:oennifer060697@gmail.com"/></a>
 </div>
 
-<h2 align="center">☾⋆⁺Available⁺⋆☾</h2>
+<!-- <h2 align="center">☾⋆⁺Available⁺⋆☾</h2>
 <div align="center">
   <img src="https://img.shields.io/badge/Python-00B1E7?logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?logo=C%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-000000?logo=C&logoColor=white"/>
-</div>
+</div> -->
 
 <br><br>
 
