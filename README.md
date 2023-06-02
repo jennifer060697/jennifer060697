@@ -31,6 +31,8 @@
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=jennifer060697&layout=compact">
 </div>
 
+<br><br>
+
 #### 🌱 I’m currently learning ...
 - Pytorch
 - MMDectection, YOLO
