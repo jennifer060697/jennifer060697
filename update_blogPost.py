@@ -9,10 +9,10 @@ MAX_NUM = 5
 latest_posts = ""
 
 for idx, entrie in enumerate(rss_feed['entries']):
-  if idx > MAX_NUM:
-     break;
-  feed_date = entrie['published_parsed']
-  latest_posts += f" - [{feed_date.tm_mon}/{feed_date.tm_mday} - {entrie['title']}]({entrie['link']})\n"
+    if idx > MAX_NUM:
+        break
+    feed_date = entrie['published_parsed']
+    latest_posts += f" - [{feed_date.tm_mon}/{feed_date.tm_mday} - {entrie['title']}]({entrie['link']})\n"
 
 preREADME = """
 
@@ -54,7 +54,7 @@ preREADME = """
 - JAVA
 
 <br><br>
-#### My Latest Posts
+#### 🌱 My Latest Posts
 
 """
 
