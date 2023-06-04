@@ -1,7 +1,8 @@
 
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=JAMONG%205&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=JAMONG%205&fontSize=90" /> <br>
+<body style="font-size:100px">반갑습니다! 머신러닝 엔지니어, CV 딥러닝 모델링 직무를 지망하는 개발자의 깃허브 입니다.</body>
 </div>
 <div align="right">
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjennifer060697&count_bg=%23708FD3&title_bg=%23515151&icon=ghostery.svg&icon_color=%23E7E7E7&title=HITS%21%21&edge_flat=false"/>
