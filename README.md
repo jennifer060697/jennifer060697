@@ -43,9 +43,9 @@
 <br><br>
 #### 🌱 My Latest Posts
 
+ - [6월 8일 - 프로그래머스 MySQL : [lv.3] 없어진 기록 찾기](https://jamong-5.tistory.com/entry/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-MySQL-lv3-%EC%97%86%EC%96%B4%EC%A7%84-%EA%B8%B0%EB%A1%9D-%EC%B0%BE%EA%B8%B0)
+ - [6월 7일 - 프로그래머스 MySQL : [lv.1] 평균 일일 대여 요금 구하기](https://jamong-5.tistory.com/entry/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-MySQL-lv1-%ED%8F%89%EA%B7%A0-%EC%9D%BC%EC%9D%BC-%EB%8C%80%EC%97%AC-%EC%9A%94%EA%B8%88-%EA%B5%AC%ED%95%98%EA%B8%B0)
+ - [6월 7일 - 백준 #20529 - [S1] 가장 가까운 세 사람의 심리적 거리 : 비둘기집원리](https://jamong-5.tistory.com/entry/%EB%B0%B1%EC%A4%80-20529-S1-%EA%B0%80%EC%9E%A5-%EA%B0%80%EA%B9%8C%EC%9A%B4-%EC%84%B8-%EC%82%AC%EB%9E%8C%EC%9D%98-%EC%8B%AC%EB%A6%AC%EC%A0%81-%EA%B1%B0%EB%A6%AC-%EB%B9%84%EB%91%98%EA%B8%B0%EC%A7%91%EC%9B%90%EB%A6%AC)
+ - [6월 7일 - [Git] reset : 수정 사항 되돌리기](https://jamong-5.tistory.com/entry/Git-reset-%EC%88%98%EC%A0%95-%EC%82%AC%ED%95%AD-%EB%90%98%EB%8F%8C%EB%A6%AC%EA%B8%B0)
+ - [6월 7일 - 백준 #14940 - [S1] 쉬운 최단거리 : BFS, Queue](https://jamong-5.tistory.com/entry/%EB%B0%B1%EC%A4%80-14940-S1-%EC%89%AC%EC%9A%B4-%EC%B5%9C%EB%8B%A8%EA%B1%B0%EB%A6%AC-BFS-Queue)
  - [6월 6일 - [round] 파이썬 round 의 특이한 .5 처리법](https://jamong-5.tistory.com/entry/round-%ED%8C%8C%EC%9D%B4%EC%8D%AC-round-%EC%9D%98-%ED%8A%B9%EC%9D%B4%ED%95%9C-5-%EC%B2%98%EB%A6%AC%EB%B2%95)
- - [6월 6일 - 프로그래머스 MySQL : [lv.2] 가격대 별 상품 개수 구하기](https://jamong-5.tistory.com/entry/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-MySQL-lv2-%EA%B0%80%EA%B2%A9%EB%8C%80-%EB%B3%84-%EC%83%81%ED%92%88-%EA%B0%9C%EC%88%98-%EA%B5%AC%ED%95%98%EA%B8%B0)
- - [6월 5일 - 프로그래머스 MySQL : [lv.3] 조건에 맞는 사용자와 총 거래금액 조회하기](https://jamong-5.tistory.com/entry/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-MySQL-lv3-%EC%A1%B0%EA%B1%B4%EC%97%90-%EB%A7%9E%EB%8A%94-%EC%82%AC%EC%9A%A9%EC%9E%90%EC%99%80-%EC%B4%9D-%EA%B1%B0%EB%9E%98%EA%B8%88%EC%95%A1-%EC%A1%B0%ED%9A%8C%ED%95%98%EA%B8%B0)
- - [6월 5일 - 프로그래머스 MySQL : [lv.3] 조건별로 분류하여 주문상태 출력하기](https://jamong-5.tistory.com/entry/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-MySQL-lv3-%EC%A1%B0%EA%B1%B4%EB%B3%84%EB%A1%9C-%EB%B6%84%EB%A5%98%ED%95%98%EC%97%AC-%EC%A3%BC%EB%AC%B8%EC%83%81%ED%83%9C-%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0)
- - [6월 5일 - 백준 #21608 - [G5] 상어 초등학교 : 구현](https://jamong-5.tistory.com/entry/%EB%B0%B1%EC%A4%80-21608-G5-%EC%83%81%EC%96%B4-%EC%B4%88%EB%93%B1%ED%95%99%EA%B5%90-%EA%B5%AC%ED%98%84)
- - [6월 4일 - 프로그래머스 MySQL : [lv.4] 보호소에서 중성화한 동물](https://jamong-5.tistory.com/entry/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-MySQL-lv4-%EB%B3%B4%ED%98%B8%EC%86%8C%EC%97%90%EC%84%9C-%EC%A4%91%EC%84%B1%ED%99%94%ED%95%9C-%EB%8F%99%EB%AC%BC)
