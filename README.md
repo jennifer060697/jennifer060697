@@ -43,8 +43,8 @@
 <br><br>
 #### 🌱 My Latest Posts
 
+ - [6월 23일 - [python3] 퍼즐 조각 채우기 lv.3 : 구현](https://jamong-5.tistory.com/entry/python3-%ED%8D%BC%EC%A6%90-%EC%A1%B0%EA%B0%81-%EC%B1%84%EC%9A%B0%EA%B8%B0-lv3-%EA%B5%AC%ED%98%84)
  - [6월 21일 - 백준 입문자를 위한 IDE 및 제출 팁](https://jamong-5.tistory.com/entry/%EB%B0%B1%EC%A4%80-%EC%9E%85%EB%AC%B8%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-IDE-%EB%B0%8F-%EC%A0%9C%EC%B6%9C-%ED%8C%81)
- - [6월 21일 - 거쳐온 부캠 두개, 고민이 많아지는 시기](https://jamong-5.tistory.com/entry/%EA%B1%B0%EC%B3%90%EC%98%A8-%EB%B6%80%EC%BA%A0-%EB%91%90%EA%B0%9C-%EA%B3%A0%EB%AF%BC%EC%9D%B4-%EB%A7%8E%EC%95%84%EC%A7%80%EB%8A%94-%EC%8B%9C%EA%B8%B0)
  - [6월 21일 - 백준 #2304 - [S2] 창고 다각형 : 구현](https://jamong-5.tistory.com/entry/%EB%B0%B1%EC%A4%80-2304-S2-%EC%B0%BD%EA%B3%A0-%EB%8B%A4%EA%B0%81%ED%98%95-%EA%B5%AC%ED%98%84)
  - [6월 20일 - 백준 #1406 - [S2] 에디터 : 스택](https://jamong-5.tistory.com/entry/%EB%B0%B1%EC%A4%80-1406-S2-%EC%97%90%EB%94%94%ED%84%B0-%EC%8A%A4%ED%83%9D)
  - [6월 15일 - 백준 #2098 - [G1] 외판원 순회 : DP,비트마스킹](https://jamong-5.tistory.com/entry/%EB%B0%B1%EC%A4%80-2098-G1-%EC%99%B8%ED%8C%90%EC%9B%90-%EC%88%9C%ED%9A%8C-DP%EB%B9%84%ED%8A%B8%EB%A7%88%EC%8A%A4%ED%82%B9)
