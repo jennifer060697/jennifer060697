@@ -43,9 +43,9 @@
 <br><br>
 #### 🌱 My Latest Posts
 
+ - [6월 27일 - join이 for 보다 빠르다 (제공되는 메서드를 최대한 사용하자)](https://jamong-5.tistory.com/entry/python-study)
+ - [6월 27일 - 백준 #1138 - [S2] 한 줄로 서기](https://jamong-5.tistory.com/entry/%EB%B0%B1%EC%A4%80-1138-S2-%ED%95%9C-%EC%A4%84%EB%A1%9C-%EC%84%9C%EA%B8%B0)
+ - [6월 26일 - 백준 #2075 - [S2] N번째 큰 수 : 최소힙](https://jamong-5.tistory.com/entry/%EB%B0%B1%EC%A4%80-2075-S2-N%EB%B2%88%EC%A7%B8-%ED%81%B0-%EC%88%98-%EC%B5%9C%EC%86%8C%ED%9E%99)
+ - [6월 26일 - AOT 컴파일러, 인터프리터, 바이트코드 인터프리터, JIT 컴파일러](https://jamong-5.tistory.com/entry/AOT-%EC%BB%B4%ED%8C%8C%EC%9D%BC%EB%9F%AC-%EC%9D%B8%ED%84%B0%ED%94%84%EB%A6%AC%ED%84%B0-%EB%B0%94%EC%9D%B4%ED%8A%B8%EC%BD%94%EB%93%9C-%EC%9D%B8%ED%84%B0%ED%94%84%EB%A6%AC%ED%84%B0-JIT-%EC%BB%B4%ED%8C%8C%EC%9D%BC%EB%9F%AC)
  - [6월 24일 - [python3] [1차] 프렌즈4블록 lv.2](https://jamong-5.tistory.com/entry/python3-1%EC%B0%A8-%ED%94%84%EB%A0%8C%EC%A6%884%EB%B8%94%EB%A1%9D-lv2)
  - [6월 24일 - [python] [3차] 파일명 정렬 lv.2](https://jamong-5.tistory.com/entry/python-3%EC%B0%A8-%ED%8C%8C%EC%9D%BC%EB%AA%85-%EC%A0%95%EB%A0%AC-lv2)
- - [6월 24일 - 백준 #1713 - [S1] 후보 추천하기 : 정렬](https://jamong-5.tistory.com/entry/%EB%B0%B1%EC%A4%80-1713-S1-%ED%9B%84%EB%B3%B4-%EC%B6%94%EC%B2%9C%ED%95%98%EA%B8%B0-%EC%A0%95%EB%A0%AC)
- - [6월 23일 - [python3] 퍼즐 조각 채우기 lv.3 : 구현](https://jamong-5.tistory.com/entry/python3-%ED%8D%BC%EC%A6%90-%EC%A1%B0%EA%B0%81-%EC%B1%84%EC%9A%B0%EA%B8%B0-lv3-%EA%B5%AC%ED%98%84)
- - [6월 21일 - 백준 입문자를 위한 IDE 및 제출 팁](https://jamong-5.tistory.com/entry/%EB%B0%B1%EC%A4%80-%EC%9E%85%EB%AC%B8%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-IDE-%EB%B0%8F-%EC%A0%9C%EC%B6%9C-%ED%8C%81)
- - [6월 21일 - 백준 #2304 - [S2] 창고 다각형 : 구현](https://jamong-5.tistory.com/entry/%EB%B0%B1%EC%A4%80-2304-S2-%EC%B0%BD%EA%B3%A0-%EB%8B%A4%EA%B0%81%ED%98%95-%EA%B5%AC%ED%98%84)
