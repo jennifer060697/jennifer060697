@@ -2,7 +2,8 @@
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=JAMONG%205&fontSize=90" /> <br>
-<body style="font-size:100px">반갑습니다! 머신러닝 엔지니어, CV 딥러닝 모델링 직무를 지망하는 개발자의 깃허브 입니다.</body> <br><br>
+<!-- <body style="font-size:100px">반갑습니다! 머신러닝 엔지니어, CV 딥러닝 모델링 직무를 지망하는 개발자의 깃허브 입니다.</body> -->
+<br><br>
 </div>
 <div align="right">
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjennifer060697&count_bg=%23708FD3&title_bg=%23515151&icon=ghostery.svg&icon_color=%23E7E7E7&title=HITS%21%21&edge_flat=false"/>
@@ -43,9 +44,9 @@
 <br><br>
 #### 🌱 My Latest Posts
 
+ - [6월 28일 - [conda] 가상환경 만들기, 삭제하기, list 보기, 주피터 노트북 연결](https://jamong-5.tistory.com/entry/conda-%EA%B0%80%EC%83%81%ED%99%98%EA%B2%BD-%EB%A7%8C%EB%93%A4%EA%B8%B0-%EC%82%AD%EC%A0%9C%ED%95%98%EA%B8%B0-list-%EB%B3%B4%EA%B8%B0-%EC%A3%BC%ED%94%BC%ED%84%B0-%EB%85%B8%ED%8A%B8%EB%B6%81-%EC%97%B0%EA%B2%B0)
+ - [6월 28일 - [fstring] fstring으로 숫자 포맷팅하기](https://jamong-5.tistory.com/entry/fstring-fstring%EC%9C%BC%EB%A1%9C-%EC%88%AB%EC%9E%90-%ED%8F%AC%EB%A7%B7%ED%8C%85%ED%95%98%EA%B8%B0)
  - [6월 27일 - [heapq] 최소힙, 최대힙](https://jamong-5.tistory.com/entry/heapq)
  - [6월 27일 - join이 for 보다 빠르다 (제공되는 메서드를 최대한 사용하자)](https://jamong-5.tistory.com/entry/python-study)
  - [6월 27일 - 백준 #1138 - [S2] 한 줄로 서기](https://jamong-5.tistory.com/entry/%EB%B0%B1%EC%A4%80-1138-S2-%ED%95%9C-%EC%A4%84%EB%A1%9C-%EC%84%9C%EA%B8%B0)
  - [6월 26일 - 백준 #2075 - [S2] N번째 큰 수 : 최소힙](https://jamong-5.tistory.com/entry/%EB%B0%B1%EC%A4%80-2075-S2-N%EB%B2%88%EC%A7%B8-%ED%81%B0-%EC%88%98-%EC%B5%9C%EC%86%8C%ED%9E%99)
- - [6월 26일 - AOT 컴파일러, 인터프리터, 바이트코드 인터프리터, JIT 컴파일러](https://jamong-5.tistory.com/entry/AOT-%EC%BB%B4%ED%8C%8C%EC%9D%BC%EB%9F%AC-%EC%9D%B8%ED%84%B0%ED%94%84%EB%A6%AC%ED%84%B0-%EB%B0%94%EC%9D%B4%ED%8A%B8%EC%BD%94%EB%93%9C-%EC%9D%B8%ED%84%B0%ED%94%84%EB%A6%AC%ED%84%B0-JIT-%EC%BB%B4%ED%8C%8C%EC%9D%BC%EB%9F%AC)
- - [6월 24일 - [python3] [1차] 프렌즈4블록 lv.2](https://jamong-5.tistory.com/entry/python3-1%EC%B0%A8-%ED%94%84%EB%A0%8C%EC%A6%884%EB%B8%94%EB%A1%9D-lv2)
