@@ -44,9 +44,9 @@
 <br><br>
 #### 🌱 My Latest Posts
 
+ - [6월 29일 - 백준 #20922 - [S1] 겹치는 건 싫어 :  두포인터](https://jamong-5.tistory.com/entry/%EB%B0%B1%EC%A4%80-20922-S1-%EA%B2%B9%EC%B9%98%EB%8A%94-%EA%B1%B4-%EC%8B%AB%EC%96%B4-%08%EB%91%90%ED%8F%AC%EC%9D%B8%ED%84%B0)
+ - [6월 29일 - [부스트캠프 AI 5기] 두런두런 후기 (feat. 변성윤 마스터님)](https://jamong-5.tistory.com/entry/%EB%B6%80%EC%8A%A4%ED%8A%B8%EC%BA%A0%ED%94%84-AI-5%EA%B8%B0-%EB%91%90%EB%9F%B0%EB%91%90%EB%9F%B0-%ED%9B%84%EA%B8%B0-feat-%EB%B3%80%EC%84%B1%EC%9C%A4-%EB%A7%88%EC%8A%A4%ED%84%B0%EB%8B%98)
+ - [6월 29일 - 백준 #9252 - [G4] LCS 2 : DP](https://jamong-5.tistory.com/entry/%EB%B0%B1%EC%A4%80-9252-G4-LCS-2-DP)
+ - [6월 29일 - [LCS] Longest Common Subsequence, 최장 공통 부분 수열](https://jamong-5.tistory.com/entry/LCS-Longest-Common-Subsequence-%EC%B5%9C%EC%9E%A5-%EA%B3%B5%ED%86%B5-%EB%B6%80%EB%B6%84-%EC%88%98%EC%97%B4)
  - [6월 28일 - [conda] 가상환경 만들기, 삭제하기, list 보기, 주피터 노트북 연결](https://jamong-5.tistory.com/entry/conda-%EA%B0%80%EC%83%81%ED%99%98%EA%B2%BD-%EB%A7%8C%EB%93%A4%EA%B8%B0-%EC%82%AD%EC%A0%9C%ED%95%98%EA%B8%B0-list-%EB%B3%B4%EA%B8%B0-%EC%A3%BC%ED%94%BC%ED%84%B0-%EB%85%B8%ED%8A%B8%EB%B6%81-%EC%97%B0%EA%B2%B0)
  - [6월 28일 - [fstring] fstring으로 숫자 포맷팅하기](https://jamong-5.tistory.com/entry/fstring-fstring%EC%9C%BC%EB%A1%9C-%EC%88%AB%EC%9E%90-%ED%8F%AC%EB%A7%B7%ED%8C%85%ED%95%98%EA%B8%B0)
- - [6월 27일 - [heapq] 최소힙, 최대힙](https://jamong-5.tistory.com/entry/heapq)
- - [6월 27일 - join이 for 보다 빠르다 (제공되는 메서드를 최대한 사용하자)](https://jamong-5.tistory.com/entry/python-study)
- - [6월 27일 - 백준 #1138 - [S2] 한 줄로 서기](https://jamong-5.tistory.com/entry/%EB%B0%B1%EC%A4%80-1138-S2-%ED%95%9C-%EC%A4%84%EB%A1%9C-%EC%84%9C%EA%B8%B0)
- - [6월 26일 - 백준 #2075 - [S2] N번째 큰 수 : 최소힙](https://jamong-5.tistory.com/entry/%EB%B0%B1%EC%A4%80-2075-S2-N%EB%B2%88%EC%A7%B8-%ED%81%B0-%EC%88%98-%EC%B5%9C%EC%86%8C%ED%9E%99)
