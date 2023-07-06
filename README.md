@@ -44,9 +44,9 @@
 <br><br>
 #### 🌱 My Latest Posts
 
+ - [7월 5일 - 프로그래머스 MySQL : [lv.4] 년, 월, 성별 별 상품 구매 회원 수 구하기](https://jamong-5.tistory.com/entry/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-MySQL-lv4-%EB%85%84-%EC%9B%94-%EC%84%B1%EB%B3%84-%EB%B3%84-%EC%83%81%ED%92%88-%EA%B5%AC%EB%A7%A4-%ED%9A%8C%EC%9B%90-%EC%88%98-%EA%B5%AC%ED%95%98%EA%B8%B0)
+ - [7월 5일 - 프로그래머스 MySQL : [lv.4] 서울에 위치한 식당 목록 출력하기](https://jamong-5.tistory.com/entry/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-MySQL-lv4-%EC%84%9C%EC%9A%B8%EC%97%90-%EC%9C%84%EC%B9%98%ED%95%9C-%EC%8B%9D%EB%8B%B9-%EB%AA%A9%EB%A1%9D-%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0)
+ - [7월 5일 - Todays Keyword : 좌절좌절좌절](https://jamong-5.tistory.com/entry/Todays-Keyword-%EC%A2%8C%EC%A0%88%EC%A2%8C%EC%A0%88%EC%A2%8C%EC%A0%88)
+ - [7월 5일 - 백준 #17615 - [S1] 공 모으기 : 그리디](https://jamong-5.tistory.com/entry/%EB%B0%B1%EC%A4%80-17615-S1-%EA%B3%B5-%EB%AA%A8%EC%9C%BC%EA%B8%B0-%EA%B7%B8%EB%A6%AC%EB%94%94)
+ - [7월 5일 - 직관적인 코드 vs 간결한 코드](https://jamong-5.tistory.com/entry/%EC%A7%81%EA%B4%80%EC%A0%81%EC%9D%B8-%EC%BD%94%EB%93%9C-vs-%EA%B0%84%EA%B2%B0%ED%95%9C-%EC%BD%94%EB%93%9C)
  - [7월 4일 - 프로그래머스 MySQL : [lv.2] 조건에 부합하는 중고거래 상태 조회하기](https://jamong-5.tistory.com/entry/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-MySQL-lv2-%EC%A1%B0%EA%B1%B4%EC%97%90-%EB%B6%80%ED%95%A9%ED%95%98%EB%8A%94-%EC%A4%91%EA%B3%A0%EA%B1%B0%EB%9E%98-%EC%83%81%ED%83%9C-%EC%A1%B0%ED%9A%8C%ED%95%98%EA%B8%B0)
- - [7월 4일 - 백준 #1446 - [S1] 지름길 : DP](https://jamong-5.tistory.com/entry/%EB%B0%B1%EC%A4%80-1446-S1-%EC%A7%80%EB%A6%84%EA%B8%B8-DP)
- - [7월 3일 - 백준 #15989 - [S1]  1,2,3 더하기 4 : DP](https://jamong-5.tistory.com/entry/%EB%B0%B1%EC%A4%80-15989-S1-%08123-%EB%8D%94%ED%95%98%EA%B8%B0-4-DP)
- - [6월 29일 - 백준 #20922 - [S1] 겹치는 건 싫어 :  두포인터](https://jamong-5.tistory.com/entry/%EB%B0%B1%EC%A4%80-20922-S1-%EA%B2%B9%EC%B9%98%EB%8A%94-%EA%B1%B4-%EC%8B%AB%EC%96%B4-%08%EB%91%90%ED%8F%AC%EC%9D%B8%ED%84%B0)
- - [6월 29일 - [부스트캠프 AI 5기] 두런두런 후기 (feat. 변성윤 마스터님)](https://jamong-5.tistory.com/entry/%EB%B6%80%EC%8A%A4%ED%8A%B8%EC%BA%A0%ED%94%84-AI-5%EA%B8%B0-%EB%91%90%EB%9F%B0%EB%91%90%EB%9F%B0-%ED%9B%84%EA%B8%B0-feat-%EB%B3%80%EC%84%B1%EC%9C%A4-%EB%A7%88%EC%8A%A4%ED%84%B0%EB%8B%98)
- - [6월 29일 - 백준 #9252 - [G4] LCS 2 : DP](https://jamong-5.tistory.com/entry/%EB%B0%B1%EC%A4%80-9252-G4-LCS-2-DP)
