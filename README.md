@@ -35,13 +35,6 @@
 
 <br><br>
 
-#### 🌱 I’m currently learning ...
-- Pytorch
-- MMDectection, YOLO
-- SQL
-- JAVA
-
-<br><br>
 #### 🌱 My Latest Posts
 
  - [8월 22일 - Real MySQL 8.0 1권, 2권](https://jamong-5.tistory.com/entry/Real-MySQL-80-1%EA%B6%8C-2%EA%B6%8C)
